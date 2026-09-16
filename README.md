@@ -6,6 +6,10 @@ My background spans teaching, GTM strategy, revenue operations, and building com
 
 I'm exploring AI-assisted products, reusable operations workflows, and tools for making better decisions. My work includes rev ops, community event operations, and experiments that compare how different AI models respond to the same inputs.
 
+## Current focus
+
+I'm building small, practical tools and workflows at the intersection of AI and operations—especially where better structure, clearer decisions, or reusable systems can replace manual coordination.
+
 ## How I build
 
 I use AI as an implementation partner, not a substitute for judgment. I define the problem and constraints, use AI tools to accelerate design and implementation, then review the output against the intended workflow. Projects document what they do, how to run them, and where they are still prototypes.
