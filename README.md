@@ -12,6 +12,8 @@ I'm building small, practical tools and workflows at the intersection of AI and 
 
 ## How I build
 
-I use AI as an implementation partner, not a substitute for judgment. My default loop is simple: define the problem and constraints, make the decision rules explicit, use AI to accelerate implementation, and validate the result against the real workflow. Projects document what they do, how to run them, and where they are still prototypes.
+I use AI as an implementation partner, not a substitute for judgment. My default loop is simple: define the problem and constraints, make the decision rules explicit, use AI to accelerate implementation, and validate the result against the real workflow. [Read the working method →](BUILDING.md)
+
+Projects document what they do, how to run them, and where they are still prototypes.
 
 [Website](https://nishagarg.me) · [Writing](https://nishakgarg.substack.com) · [LinkedIn](https://www.linkedin.com/in/nisha-garg/)
