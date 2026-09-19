@@ -11,4 +11,12 @@ I use AI to accelerate implementation while keeping problem definition, constrai
 5. **Validate the workflow** — Check the result against the intended use, not just whether the output looks complete.
 6. **Document the boundary** — State what works, what remains a prototype, and what still needs verification.
 
+## Before I call something done
+
+- The output addresses the original workflow, not just the prompt.
+- Important assumptions and decision rules are visible.
+- Claims are traceable to evidence or clearly labeled as examples.
+- Known limitations and unfinished pieces are documented.
+- A future reader can tell what was validated and what was not.
+
 This is the operating method behind the projects and experiments I publish here.
