@@ -19,4 +19,8 @@ I use AI to accelerate implementation while keeping problem definition, constrai
 - Known limitations and unfinished pieces are documented.
 - A future reader can tell what was validated and what was not.
 
+## Iteration rule
+
+When validation exposes a gap, I change the smallest useful thing that addresses it, then validate again. That keeps iteration tied to evidence instead of adding scope by default.
+
 This is the operating method behind the projects and experiments I publish here.
