@@ -14,6 +14,8 @@ I'm building small, practical tools and workflows at the intersection of AI and 
 
 I use AI as an implementation partner, not a substitute for judgment. My default loop is simple: define the problem and constraints, make the decision rules explicit, use AI to accelerate implementation, and validate the result against the real workflow. [Read the working method →](BUILDING.md)
 
-Projects document what they do, how to run them, and where they are still prototypes.
+## Evidence standard
+
+I separate shipped work, prototypes, and fictional examples rather than presenting them as equivalent. Shared community workflows are described with their provenance intact, and project notes call out what has—and has not—been validated.
 
 [Website](https://nishagarg.me) · [Writing](https://nishakgarg.substack.com) · [LinkedIn](https://www.linkedin.com/in/nisha-garg/)
