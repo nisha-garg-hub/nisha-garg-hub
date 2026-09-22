@@ -1,5 +1,7 @@
 # Hi, I'm Nisha Garg
 
+**GTM strategy · Revenue operations · AI-assisted workflows**
+
 I build tools that turn messy operating problems into something people can use.
 
 My background spans teaching, GTM strategy, revenue operations, and building communities. I bring that perspective to software: start with the people and the problem, make the rules explicit, and work with it until I know the results actually work.
