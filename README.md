@@ -12,6 +12,10 @@ I'm exploring AI-assisted products, reusable operations workflows, and tools for
 
 I'm building small, practical tools and workflows at the intersection of AI and operations—especially where better structure, clearer decisions, or reusable systems can replace manual coordination.
 
+## Selected work
+
+- [Decision note](DECISION-NOTE.md) — a lightweight template for turning an ambiguous operating question into an actionable decision with explicit constraints, tradeoffs, decision rules, and validation.
+
 ## How I build
 
 I use AI as an implementation partner, not a substitute for judgment. My default loop is simple: define the problem and constraints, make the decision rules explicit, use AI to accelerate implementation, and validate the result against the real workflow. [Read the working method →](BUILDING.md)
